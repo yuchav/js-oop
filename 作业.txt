@@ -1,0 +1,4 @@
+使用javascript面向对象编程实现一个具有增删改查的todo,最终实现参照
+http://todomvc.com/vanilla-examples/vanillajs/
+
+需要的模板静态页在[作业附件]文件夹中,提交个人代码文件夹到[上交作业]文件夹中
